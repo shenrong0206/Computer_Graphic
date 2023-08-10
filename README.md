@@ -1,2 +1,3 @@
 # Computer_Graphic
-![image](https://github.com/shenrong0206/Computer_Graphic/assets/100283820/c435ea37-3bd7-42ee-a11b-4cfa04195afa)
+* 小畫家 2D paint
+![image](https://github.com/shenrong0206/Computer_Graphic/assets/100283820/534549c1-72c1-42e5-8d4c-c90acb47114f)
